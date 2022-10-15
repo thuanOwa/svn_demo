@@ -1,8 +1,3 @@
-_**ahoho**_
-user: thuan
+svn checkout --depth empty https://github.com/thuanpham2311/svn_demo
 
-ahihi
-
-shark girl said "uwa uwa"
-
-uwa uwa
+svn commit -m "svn"
