@@ -14,6 +14,7 @@ $env:editor = '{editor name, vd: notepad, nvim}'
 ```
 > tạo biến môi trường echo editor để svn sử dụng xử lý conflict
 
+
 ```bash
 svn checkout {server url}
 svn update {update lastest}
